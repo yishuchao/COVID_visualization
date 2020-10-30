@@ -1,2 +1,2 @@
 # COVID_visualization
-Lab assignment for CS10. COVID-19 data visualization using Bokeh.
+This is a new lab that Michelle Cheung and I designed for CS10. In this lab, we will walk students thought how to visulize COVID-19 data with Python library Bokeh.
