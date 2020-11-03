@@ -25,4 +25,4 @@ Change the line `output_notebook()` to `output_file('<the_name_of_your_html_file
 ### Closing Thoughts
 In this lab, we were only able to touch upon a small portion of Bokeh's functionalities. However, if you are interested, we really encourage you to take a look at Bokeh's [user guide](https://docs.bokeh.org/en/latest/docs/user_guide.html) and [gallery](https://docs.bokeh.org/en/latest/docs/gallery.html) to see all the cool things you could do with Bokeh, such as streaming data or linking graphs together!
 
-And [here]https://realpython.com/python-virtual-environments-a-primer/#:~:text=At%20its%20core%2C%20the%20main,dependencies%20every%20other%20project%20has.) is an article that goes more in depth into what virtual environments are and how to set them up.
+And [here](https://realpython.com/python-virtual-environments-a-primer/#:~:text=At%20its%20core%2C%20the%20main,dependencies%20every%20other%20project%20has.) is an article that goes more in depth into what virtual environments are and how to set them up.
