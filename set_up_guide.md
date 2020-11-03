@@ -19,7 +19,7 @@ Using a virtual environment gives you the ability to created an isolated environ
 
 To run a `.py` file, use the command `source env/bin/activate` and type in `python3 <the name of your file>` as you would normally. To get out of the virtual environment, use the command `deactivate`. Note that your python file might not execute outside of the virtual environment since the dependencies might not be installed, so always activate your virtual environment before running the file!
 
-### Out putting Bokeh plots as an HTML file
+### Outputting Bokeh plots as an HTML file
 Change the line `output_notebook()` to `output_file('<the_name_of_your_html_file>.html')`. After you run the Python file, you should see an HTML file being added to your project directory!
 
 ### Closing Thoughts
